@@ -24,7 +24,7 @@ if (!$loggedin) {
     echo '
 
                     <li class="nav-item">
-                    <a class="nav-link text-light" href="/loginsystem/signup.php">SignUp</a>
+                    <a class="nav-link text-light" href="/loginsystem/index.php">SignUp</a>
                     </li>
                     
                     <li class="nav-item">

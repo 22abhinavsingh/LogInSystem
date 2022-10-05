@@ -79,7 +79,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="container my-4">
         <h2 class="text-center">Sign Up to create your account!</h2>
 
-        <form action="/loginsystem/signup.php" method="post">
+        <form action="/loginsystem/index.php" method="post">
 
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Username</label>
